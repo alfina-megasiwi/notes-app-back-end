@@ -4,8 +4,14 @@
     http://notesapp-v1.dicodingacademy.com/
     ```
 2. Change the URL
+    <br>
+    production mode:
     ```
     http://54.254.71.71:5000/
+    ```
+    if production error, use development mode:
+    ```
+    http://localhost:5000/
     ```
 
 2. CRUD Demo
